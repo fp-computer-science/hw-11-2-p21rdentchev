@@ -1,0 +1,6 @@
+Question 1
+You are returning the values that are even, not the ones at even indices.
+
+Question 3
+This should have checked a one dimensional sequence.
+You should have returned just the index the value was found at.
